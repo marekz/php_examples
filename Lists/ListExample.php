@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Example of one-way list?
+ * Example of one-way list implementation
  */
 class ListNode {
     public $data = null;

@@ -1,1 +1,1 @@
-# Simple list implementation inPHP
+# Simple list implementation in PHP
